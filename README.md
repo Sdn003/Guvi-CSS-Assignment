@@ -1,3 +1,4 @@
 # Guvi-CSS-Assignment
-2 tasks on CSS
-https://codepen.io/sdn003/pen/abwZZwr
+
+Event landing page: https://codepen.io/sdn003/full/ZEyOwjy
+Blog Post : https://codepen.io/sdn003/full/ZEyOwjy
